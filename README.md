@@ -14,6 +14,6 @@ Provides demo code for N-euro Predictor paper.
 3. Install the jupyter notebook. Reference: https://jupyter.org/install
 3. Then you are all set to run the N-euro-demo.ipynb.
 
-## We also updloaded a pdf of the jupyter notebook with all outputs.
+
  
  
