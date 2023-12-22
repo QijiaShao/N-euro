@@ -5,7 +5,7 @@ full code will be out later. Here we provide a demo code first.
 # N-euro filter demo   
 
 
-Provides demo code for N-euro Predictor paper..
+Provides demo code for N-euro Predictor paper.
 
 ## requirement
 1. The main model required for this demo code is the PytorchForecasting library.
